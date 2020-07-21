@@ -1,0 +1,68 @@
+[DEVICE]
+Name=P18F87K22
+Clock=16000000
+[BUILD_TYPE]
+Value=0
+[MEMORY_MODEL]
+Value=0
+[ACTIVE_TAB]
+Value=Click_Pressure_PIC.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[FILES]
+Count=1
+File0=Click_Pressure_PIC.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=1
+File0=Click_Pressure_PIC.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=6
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\
+Path2=C:\Users\dime-\OneDrive\Desktop\kresa python 16.7\temp press hz final mikroc\
+Path3=C:\Users\dime-\OneDrive\Desktop\mikroc final\KOD ZA senzore\temp press hz final mikroc\
+Path4=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\mikroBUS BDF API\Uses\
+Path5=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\Pressure Click\Uses\
+[HEADER_PATH]
+Count=4
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\Pressure Click\Examples\I2C\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Packages\mikroBUS BDF API\Uses\
+Path2=C:\Users\dime-\OneDrive\Desktop\mikroc final\KOD ZA senzore\temp press hz final mikroc\
+Path3=C:\Users\dime-\OneDrive\Desktop\kresa python 16.7\temp press hz final mikroc\
+[HEADERS]
+Count=2
+File0=Click_Pressure_config.h
+File1=Click_Pressure_types.h
+[PLDS]
+Count=1
+File0=Click_Pressure.pld
+[Useses]
+Count=9
+File0=UART
+File1=Conversions
+File2=C_String
+File3=Pressure_P18
+File4=easypicpro_v7_P18F87K22
+File5=SPI
+File6=I2C
+File7=Sprintf
+File8=C_Type
+[EXPANDED_NODES]
+Count=0
